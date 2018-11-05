@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timos site on the internet</title>
+    
+    
+    
+    <link>https://timoe.github.io/</link>
+    <description>Recent content on Timos site on the internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Timo E aus E</copyright>
+    
+	<atom:link href="https://timoe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://timoe.github.io/about/</link>
+      <pubDate>Thu, 01 Jan 1970 00:00:00 +0000</pubDate>
+      
+      <guid>https://timoe.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi! I&#39;m Timo. I&#39;m a Software Engineer, doing software for the cloud, in the cloud. I&#39;m currently with Adobe working as a Senior Software Engineer. I work on backend serices for Adobes Cloud offerings, Creative Cloud and Document Cloud. I contribute to Adobe Cloud Platform, the next level for collaborating with Adobe Products on enterprise scale. I like coding, cutting edge technologies, building scalable architectures, good API design and learning new stuff And I like working with people, I&#39;m good in forming teams and motivating people.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>https://timoe.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://timoe.github.io/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
